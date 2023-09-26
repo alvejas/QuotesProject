@@ -1,5 +1,4 @@
-This application was developed in springboot. The database is hosted on mongoDbAtlas. This database was built from the provided API and has exactly 50 thousand documents
-All tests are also contained in this folder.
+This application was developed in springboot. The database is hosted on mongoDbAtlas. This database was built using the API Quote Garden (https://github.com/pprathameshmore/QuoteGarden) and has exactly 50 thousand documents
 To start the application, simply open it in any IDEA (for example inteij) and build the application.
 The code file also contains unit tests for the app.
 
