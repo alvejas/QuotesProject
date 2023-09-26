@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin@clusterquotes.y38h7ps.mongodb.net/?retryWrites=true&w=majority
+      database: Quote
+      collection: quotes
